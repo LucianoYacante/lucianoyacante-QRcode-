@@ -22,7 +22,7 @@ body{
 }
 
 .content{
-   background-color: white;
+   background-color: rgb(236, 32, 32);
    width: 300px;
    margin: auto ;
    padding: 1em;
